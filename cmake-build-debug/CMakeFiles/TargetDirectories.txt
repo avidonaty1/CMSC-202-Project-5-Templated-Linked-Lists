@@ -1,0 +1,3 @@
+C:/Users/avido/CLionProjects/Project 5/cmake-build-debug/CMakeFiles/Project_5.dir
+C:/Users/avido/CLionProjects/Project 5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/avido/CLionProjects/Project 5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
